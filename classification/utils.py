@@ -1,5 +1,5 @@
 """
-Environment variables and functions for the project.
+Environment variables and functions for the classification tasks.
 """
 
 import pandas as pd
