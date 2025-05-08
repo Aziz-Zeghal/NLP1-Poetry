@@ -5,6 +5,11 @@ Environment variables and functions for the project.
 import pandas as pd
 import random
 
+# Used by every model:
+DATA = "../../data/"
+BENCHMARK_TABLE = "../../class_bench.parquet"
+
+
 # Map of German literary movements
 MOVEMENT_MAP = {
     (1050, 1350): "Middle High German",
