@@ -47,3 +47,5 @@ We explored different approaches for poetry generation:
 Detailed classification scores and benchmarks can be found in:
 - Individual model results in their respective directories
 - Comprehensive comparison in `classification_benchmark.md`
+
+Detailed generation results and examples can be found in the notebooks located in the `generation/` directory.
