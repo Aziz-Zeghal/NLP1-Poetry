@@ -1,9 +1,10 @@
 # Poetry Analysis and Generation Project
 
-This project explores various Natural Language Processing (NLP) techniques for poetry analysis and generation using the Vie Poetree dataset, a multilingual poetry library.
+This project explores various Natural Language Processing (NLP) techniques for poetry analysis and generation using the Poetree dataset, a multilingual poetry library.
 
 ## Project Structure
 
+```
 .
 ├── data/
 │ ├── augmented/ # Data with line permutation
@@ -11,11 +12,11 @@ This project explores various Natural Language Processing (NLP) techniques for p
 ├── classification/ # Classification models and results
 ├── generation/ # Poetry generation models
 └── classification_benchmark.md # Comprehensive classification scores
-
+```
 
 ## Data Processing
 
-- **Base Dataset**: Vie Poetree library containing poems in multiple languages
+- **Base Dataset**: Poetree library containing poems in multiple languages
 - **Data Augmentation**:
   - Line permutation for enhanced training
   - Translation augmentation (German to English)
