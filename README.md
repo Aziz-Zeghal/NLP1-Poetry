@@ -23,7 +23,7 @@ This project explores various Natural Language Processing (NLP) techniques for p
 ├── data_manipulation # Data merge method
 ├── classification_bench.ipynb # Comprehensive classification scores
 ├── class_bench.parquet # Benchmark results
-├── report.pdf # Project report
+├── Report.pdf # Project report
 └── data/ # Poetree dataset
   ├── en/
   ├── de/
